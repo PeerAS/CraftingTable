@@ -1,0 +1,1996 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="e2dffa37-195a-4d67-a852-348a31be4967" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="5-3.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/Assets/5-3.png">
+					<Candidate type="Path">
+						<Value>Assets\5-3.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/Assets/Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/Assets/SmallLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\SmallLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/Assets/SplashScreen.png">
+					<Candidate type="Path">
+						<Value>Assets\SplashScreen.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="testbackground.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/Assets/testbackground.png">
+					<Candidate type="Path">
+						<Value>Assets\testbackground.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Common">
+				<NamedResource name="StandardStyles.xbf" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/Common/StandardStyles.xbf">
+					<Candidate type="Path">
+						<Value>Common\StandardStyles.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DB">
+				<ResourceMapSubtree name="Images">
+					<NamedResource name="0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="10.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/10.png">
+						<Candidate type="Path">
+							<Value>DB\Images\10.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="100.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/100.png">
+						<Candidate type="Path">
+							<Value>DB\Images\100.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="101.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/101.png">
+						<Candidate type="Path">
+							<Value>DB\Images\101.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="102.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/102.png">
+						<Candidate type="Path">
+							<Value>DB\Images\102.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="103.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/103.png">
+						<Candidate type="Path">
+							<Value>DB\Images\103.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="104.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/104.png">
+						<Candidate type="Path">
+							<Value>DB\Images\104.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="105.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/105.png">
+						<Candidate type="Path">
+							<Value>DB\Images\105.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="106.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/106.png">
+						<Candidate type="Path">
+							<Value>DB\Images\106.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="107.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/107.png">
+						<Candidate type="Path">
+							<Value>DB\Images\107.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="108.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/108.png">
+						<Candidate type="Path">
+							<Value>DB\Images\108.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="109.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/109.png">
+						<Candidate type="Path">
+							<Value>DB\Images\109.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="11.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/11.png">
+						<Candidate type="Path">
+							<Value>DB\Images\11.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="110.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/110.png">
+						<Candidate type="Path">
+							<Value>DB\Images\110.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="111.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/111.png">
+						<Candidate type="Path">
+							<Value>DB\Images\111.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="112.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/112.png">
+						<Candidate type="Path">
+							<Value>DB\Images\112.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="113.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/113.png">
+						<Candidate type="Path">
+							<Value>DB\Images\113.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="114.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/114.png">
+						<Candidate type="Path">
+							<Value>DB\Images\114.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="115.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/115.png">
+						<Candidate type="Path">
+							<Value>DB\Images\115.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="116.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/116.png">
+						<Candidate type="Path">
+							<Value>DB\Images\116.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="117.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/117.png">
+						<Candidate type="Path">
+							<Value>DB\Images\117.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="118.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/118.png">
+						<Candidate type="Path">
+							<Value>DB\Images\118.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="119.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/119.png">
+						<Candidate type="Path">
+							<Value>DB\Images\119.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="12.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/12.png">
+						<Candidate type="Path">
+							<Value>DB\Images\12.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="120.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/120.png">
+						<Candidate type="Path">
+							<Value>DB\Images\120.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="121.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/121.png">
+						<Candidate type="Path">
+							<Value>DB\Images\121.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="122.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/122.png">
+						<Candidate type="Path">
+							<Value>DB\Images\122.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="123.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/123.png">
+						<Candidate type="Path">
+							<Value>DB\Images\123.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="124.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/124.png">
+						<Candidate type="Path">
+							<Value>DB\Images\124.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="125-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/125-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\125-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="125-1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/125-1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\125-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="125-2.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/125-2.png">
+						<Candidate type="Path">
+							<Value>DB\Images\125-2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="125-3.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/125-3.png">
+						<Candidate type="Path">
+							<Value>DB\Images\125-3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="126-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/126-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\126-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="126-1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/126-1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\126-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="126-2.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/126-2.png">
+						<Candidate type="Path">
+							<Value>DB\Images\126-2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="126-3.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/126-3.png">
+						<Candidate type="Path">
+							<Value>DB\Images\126-3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="127.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/127.png">
+						<Candidate type="Path">
+							<Value>DB\Images\127.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="128.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/128.png">
+						<Candidate type="Path">
+							<Value>DB\Images\128.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="129.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/129.png">
+						<Candidate type="Path">
+							<Value>DB\Images\129.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="13.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/13.png">
+						<Candidate type="Path">
+							<Value>DB\Images\13.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="130.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/130.png">
+						<Candidate type="Path">
+							<Value>DB\Images\130.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="131.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/131.png">
+						<Candidate type="Path">
+							<Value>DB\Images\131.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="132.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/132.png">
+						<Candidate type="Path">
+							<Value>DB\Images\132.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="133.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/133.png">
+						<Candidate type="Path">
+							<Value>DB\Images\133.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="134.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/134.png">
+						<Candidate type="Path">
+							<Value>DB\Images\134.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="135.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/135.png">
+						<Candidate type="Path">
+							<Value>DB\Images\135.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="136.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/136.png">
+						<Candidate type="Path">
+							<Value>DB\Images\136.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="137.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/137.png">
+						<Candidate type="Path">
+							<Value>DB\Images\137.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="138.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/138.png">
+						<Candidate type="Path">
+							<Value>DB\Images\138.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="139.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/139.png">
+						<Candidate type="Path">
+							<Value>DB\Images\139.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="14.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/14.png">
+						<Candidate type="Path">
+							<Value>DB\Images\14.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="140.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/140.png">
+						<Candidate type="Path">
+							<Value>DB\Images\140.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="141.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/141.png">
+						<Candidate type="Path">
+							<Value>DB\Images\141.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="142.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/142.png">
+						<Candidate type="Path">
+							<Value>DB\Images\142.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="143.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/143.png">
+						<Candidate type="Path">
+							<Value>DB\Images\143.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="144.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/144.png">
+						<Candidate type="Path">
+							<Value>DB\Images\144.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="145.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/145.png">
+						<Candidate type="Path">
+							<Value>DB\Images\145.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="146.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/146.png">
+						<Candidate type="Path">
+							<Value>DB\Images\146.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="147.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/147.png">
+						<Candidate type="Path">
+							<Value>DB\Images\147.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="148.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/148.png">
+						<Candidate type="Path">
+							<Value>DB\Images\148.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="149.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/149.png">
+						<Candidate type="Path">
+							<Value>DB\Images\149.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="15.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/15.png">
+						<Candidate type="Path">
+							<Value>DB\Images\15.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="150.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/150.png">
+						<Candidate type="Path">
+							<Value>DB\Images\150.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="151.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/151.png">
+						<Candidate type="Path">
+							<Value>DB\Images\151.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="152.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/152.png">
+						<Candidate type="Path">
+							<Value>DB\Images\152.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="153.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/153.png">
+						<Candidate type="Path">
+							<Value>DB\Images\153.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="154.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/154.png">
+						<Candidate type="Path">
+							<Value>DB\Images\154.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="155-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/155-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\155-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="156.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/156.png">
+						<Candidate type="Path">
+							<Value>DB\Images\156.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="157.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/157.png">
+						<Candidate type="Path">
+							<Value>DB\Images\157.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="158.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/158.png">
+						<Candidate type="Path">
+							<Value>DB\Images\158.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="159.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/159.png">
+						<Candidate type="Path">
+							<Value>DB\Images\159.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="16.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/16.png">
+						<Candidate type="Path">
+							<Value>DB\Images\16.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="160.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/160.png">
+						<Candidate type="Path">
+							<Value>DB\Images\160.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="161.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/161.png">
+						<Candidate type="Path">
+							<Value>DB\Images\161.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="162.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/162.png">
+						<Candidate type="Path">
+							<Value>DB\Images\162.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="163.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/163.png">
+						<Candidate type="Path">
+							<Value>DB\Images\163.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="17-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/17-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\17-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="17-1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/17-1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\17-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="17-2.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/17-2.png">
+						<Candidate type="Path">
+							<Value>DB\Images\17-2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="17-3.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/17-3.png">
+						<Candidate type="Path">
+							<Value>DB\Images\17-3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="170.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/170.png">
+						<Candidate type="Path">
+							<Value>DB\Images\170.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-10.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-10.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-10.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-11.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-11.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-11.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-12.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-12.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-12.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-13.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-13.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-13.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-14.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-14.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-14.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-15.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-15.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-15.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-2.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-2.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-3.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-3.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-4.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-4.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-5.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-5.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-5.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-6.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-6.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-6.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-7.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-7.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-7.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-8.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-8.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-8.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="171-9.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/171-9.png">
+						<Candidate type="Path">
+							<Value>DB\Images\171-9.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="172.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/172.png">
+						<Candidate type="Path">
+							<Value>DB\Images\172.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="173.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/173.png">
+						<Candidate type="Path">
+							<Value>DB\Images\173.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="18.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/18.png">
+						<Candidate type="Path">
+							<Value>DB\Images\18.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="19.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/19.png">
+						<Candidate type="Path">
+							<Value>DB\Images\19.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="2.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/2.png">
+						<Candidate type="Path">
+							<Value>DB\Images\2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="20.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/20.png">
+						<Candidate type="Path">
+							<Value>DB\Images\20.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="21.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/21.png">
+						<Candidate type="Path">
+							<Value>DB\Images\21.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="22.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/22.png">
+						<Candidate type="Path">
+							<Value>DB\Images\22.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="23.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/23.png">
+						<Candidate type="Path">
+							<Value>DB\Images\23.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="24.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/24.png">
+						<Candidate type="Path">
+							<Value>DB\Images\24.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="25.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/25.png">
+						<Candidate type="Path">
+							<Value>DB\Images\25.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="256.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/256.png">
+						<Candidate type="Path">
+							<Value>DB\Images\256.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="257.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/257.png">
+						<Candidate type="Path">
+							<Value>DB\Images\257.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="258.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/258.png">
+						<Candidate type="Path">
+							<Value>DB\Images\258.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="259.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/259.png">
+						<Candidate type="Path">
+							<Value>DB\Images\259.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="26.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/26.png">
+						<Candidate type="Path">
+							<Value>DB\Images\26.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="260.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/260.png">
+						<Candidate type="Path">
+							<Value>DB\Images\260.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="261.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/261.png">
+						<Candidate type="Path">
+							<Value>DB\Images\261.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="262.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/262.png">
+						<Candidate type="Path">
+							<Value>DB\Images\262.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="263-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/263-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\263-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="263-1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/263-1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\263-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="264.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/264.png">
+						<Candidate type="Path">
+							<Value>DB\Images\264.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="265.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/265.png">
+						<Candidate type="Path">
+							<Value>DB\Images\265.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="266.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/266.png">
+						<Candidate type="Path">
+							<Value>DB\Images\266.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="267.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/267.png">
+						<Candidate type="Path">
+							<Value>DB\Images\267.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="268.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/268.png">
+						<Candidate type="Path">
+							<Value>DB\Images\268.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="269.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/269.png">
+						<Candidate type="Path">
+							<Value>DB\Images\269.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="27.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/27.png">
+						<Candidate type="Path">
+							<Value>DB\Images\27.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="270.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/270.png">
+						<Candidate type="Path">
+							<Value>DB\Images\270.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="271.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/271.png">
+						<Candidate type="Path">
+							<Value>DB\Images\271.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="272.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/272.png">
+						<Candidate type="Path">
+							<Value>DB\Images\272.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="273.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/273.png">
+						<Candidate type="Path">
+							<Value>DB\Images\273.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="274.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/274.png">
+						<Candidate type="Path">
+							<Value>DB\Images\274.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="275.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/275.png">
+						<Candidate type="Path">
+							<Value>DB\Images\275.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="276.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/276.png">
+						<Candidate type="Path">
+							<Value>DB\Images\276.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="277.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/277.png">
+						<Candidate type="Path">
+							<Value>DB\Images\277.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="278.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/278.png">
+						<Candidate type="Path">
+							<Value>DB\Images\278.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="279.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/279.png">
+						<Candidate type="Path">
+							<Value>DB\Images\279.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="28.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/28.png">
+						<Candidate type="Path">
+							<Value>DB\Images\28.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="280.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/280.png">
+						<Candidate type="Path">
+							<Value>DB\Images\280.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="281.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/281.png">
+						<Candidate type="Path">
+							<Value>DB\Images\281.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="282.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/282.png">
+						<Candidate type="Path">
+							<Value>DB\Images\282.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="283.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/283.png">
+						<Candidate type="Path">
+							<Value>DB\Images\283.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="284.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/284.png">
+						<Candidate type="Path">
+							<Value>DB\Images\284.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="285.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/285.png">
+						<Candidate type="Path">
+							<Value>DB\Images\285.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="286.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/286.png">
+						<Candidate type="Path">
+							<Value>DB\Images\286.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="287.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/287.png">
+						<Candidate type="Path">
+							<Value>DB\Images\287.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="288.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/288.png">
+						<Candidate type="Path">
+							<Value>DB\Images\288.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="289.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/289.png">
+						<Candidate type="Path">
+							<Value>DB\Images\289.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="29.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/29.png">
+						<Candidate type="Path">
+							<Value>DB\Images\29.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="290.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/290.png">
+						<Candidate type="Path">
+							<Value>DB\Images\290.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="291.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/291.png">
+						<Candidate type="Path">
+							<Value>DB\Images\291.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="292.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/292.png">
+						<Candidate type="Path">
+							<Value>DB\Images\292.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="293.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/293.png">
+						<Candidate type="Path">
+							<Value>DB\Images\293.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="294.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/294.png">
+						<Candidate type="Path">
+							<Value>DB\Images\294.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="295.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/295.png">
+						<Candidate type="Path">
+							<Value>DB\Images\295.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="296.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/296.png">
+						<Candidate type="Path">
+							<Value>DB\Images\296.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="297.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/297.png">
+						<Candidate type="Path">
+							<Value>DB\Images\297.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="298.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/298.png">
+						<Candidate type="Path">
+							<Value>DB\Images\298.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="299.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/299.png">
+						<Candidate type="Path">
+							<Value>DB\Images\299.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="3.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/3.png">
+						<Candidate type="Path">
+							<Value>DB\Images\3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="30.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/30.png">
+						<Candidate type="Path">
+							<Value>DB\Images\30.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="300.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/300.png">
+						<Candidate type="Path">
+							<Value>DB\Images\300.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="301.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/301.png">
+						<Candidate type="Path">
+							<Value>DB\Images\301.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="302.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/302.png">
+						<Candidate type="Path">
+							<Value>DB\Images\302.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="303.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/303.png">
+						<Candidate type="Path">
+							<Value>DB\Images\303.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="304.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/304.png">
+						<Candidate type="Path">
+							<Value>DB\Images\304.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="305.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/305.png">
+						<Candidate type="Path">
+							<Value>DB\Images\305.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="306.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/306.png">
+						<Candidate type="Path">
+							<Value>DB\Images\306.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="307.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/307.png">
+						<Candidate type="Path">
+							<Value>DB\Images\307.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="308.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/308.png">
+						<Candidate type="Path">
+							<Value>DB\Images\308.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="309.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/309.png">
+						<Candidate type="Path">
+							<Value>DB\Images\309.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="31.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/31.png">
+						<Candidate type="Path">
+							<Value>DB\Images\31.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="310.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/310.png">
+						<Candidate type="Path">
+							<Value>DB\Images\310.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="311.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/311.png">
+						<Candidate type="Path">
+							<Value>DB\Images\311.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="312.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/312.png">
+						<Candidate type="Path">
+							<Value>DB\Images\312.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="313.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/313.png">
+						<Candidate type="Path">
+							<Value>DB\Images\313.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="314.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/314.png">
+						<Candidate type="Path">
+							<Value>DB\Images\314.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="315-15.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/315-15.png">
+						<Candidate type="Path">
+							<Value>DB\Images\315-15.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="315.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/315.png">
+						<Candidate type="Path">
+							<Value>DB\Images\315.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="316.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/316.png">
+						<Candidate type="Path">
+							<Value>DB\Images\316.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="317.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/317.png">
+						<Candidate type="Path">
+							<Value>DB\Images\317.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="318.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/318.png">
+						<Candidate type="Path">
+							<Value>DB\Images\318.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="319.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/319.png">
+						<Candidate type="Path">
+							<Value>DB\Images\319.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="32.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/32.png">
+						<Candidate type="Path">
+							<Value>DB\Images\32.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="320.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/320.png">
+						<Candidate type="Path">
+							<Value>DB\Images\320.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="321.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/321.png">
+						<Candidate type="Path">
+							<Value>DB\Images\321.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="322-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/322-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\322-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="322-1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/322-1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\322-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="323.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/323.png">
+						<Candidate type="Path">
+							<Value>DB\Images\323.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="324.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/324.png">
+						<Candidate type="Path">
+							<Value>DB\Images\324.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="325.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/325.png">
+						<Candidate type="Path">
+							<Value>DB\Images\325.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="326.PNG" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/326.PNG">
+						<Candidate type="Path">
+							<Value>DB\Images\326.PNG</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="327.PNG" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/327.PNG">
+						<Candidate type="Path">
+							<Value>DB\Images\327.PNG</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="328.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/328.png">
+						<Candidate type="Path">
+							<Value>DB\Images\328.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="329.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/329.png">
+						<Candidate type="Path">
+							<Value>DB\Images\329.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="33.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/33.png">
+						<Candidate type="Path">
+							<Value>DB\Images\33.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="330.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/330.png">
+						<Candidate type="Path">
+							<Value>DB\Images\330.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="331.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/331.png">
+						<Candidate type="Path">
+							<Value>DB\Images\331.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="332.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/332.png">
+						<Candidate type="Path">
+							<Value>DB\Images\332.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="333.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/333.png">
+						<Candidate type="Path">
+							<Value>DB\Images\333.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="334.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/334.png">
+						<Candidate type="Path">
+							<Value>DB\Images\334.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="335.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/335.png">
+						<Candidate type="Path">
+							<Value>DB\Images\335.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="336.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/336.png">
+						<Candidate type="Path">
+							<Value>DB\Images\336.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="337.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/337.png">
+						<Candidate type="Path">
+							<Value>DB\Images\337.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="338.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/338.png">
+						<Candidate type="Path">
+							<Value>DB\Images\338.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="339.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/339.png">
+						<Candidate type="Path">
+							<Value>DB\Images\339.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="34.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/34.png">
+						<Candidate type="Path">
+							<Value>DB\Images\34.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="340.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/340.png">
+						<Candidate type="Path">
+							<Value>DB\Images\340.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="341.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/341.png">
+						<Candidate type="Path">
+							<Value>DB\Images\341.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="342.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/342.png">
+						<Candidate type="Path">
+							<Value>DB\Images\342.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="343.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/343.png">
+						<Candidate type="Path">
+							<Value>DB\Images\343.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="344.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/344.png">
+						<Candidate type="Path">
+							<Value>DB\Images\344.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="345.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/345.png">
+						<Candidate type="Path">
+							<Value>DB\Images\345.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="346.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/346.png">
+						<Candidate type="Path">
+							<Value>DB\Images\346.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="347.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/347.png">
+						<Candidate type="Path">
+							<Value>DB\Images\347.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="348.PNG" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/348.PNG">
+						<Candidate type="Path">
+							<Value>DB\Images\348.PNG</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="349.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/349.png">
+						<Candidate type="Path">
+							<Value>DB\Images\349.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-10.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-10.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-10.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-11.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-11.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-11.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-12.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-12.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-12.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-13.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-13.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-13.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-14.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-14.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-14.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-15.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-15.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-15.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-2.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-2.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-3.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-3.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-4.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-4.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-5.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-5.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-5.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-6.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-6.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-6.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-7.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-7.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-7.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-8.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-8.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-8.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="35-9.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/35-9.png">
+						<Candidate type="Path">
+							<Value>DB\Images\35-9.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="350.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/350.png">
+						<Candidate type="Path">
+							<Value>DB\Images\350.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-10.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-10.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-10.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-11.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-11.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-11.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-12.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-12.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-12.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-13.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-13.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-13.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-14.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-14.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-14.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-15.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-15.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-15.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-2.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-2.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-3.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-3.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-4.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-4.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-5.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-5.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-5.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-6.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-6.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-6.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-7.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-7.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-7.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-8.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-8.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-8.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="351-9.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/351-9.png">
+						<Candidate type="Path">
+							<Value>DB\Images\351-9.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="352.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/352.png">
+						<Candidate type="Path">
+							<Value>DB\Images\352.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="353.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/353.png">
+						<Candidate type="Path">
+							<Value>DB\Images\353.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="354.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/354.png">
+						<Candidate type="Path">
+							<Value>DB\Images\354.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="355.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/355.png">
+						<Candidate type="Path">
+							<Value>DB\Images\355.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="356.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/356.png">
+						<Candidate type="Path">
+							<Value>DB\Images\356.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="357.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/357.png">
+						<Candidate type="Path">
+							<Value>DB\Images\357.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="358.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/358.png">
+						<Candidate type="Path">
+							<Value>DB\Images\358.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="359.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/359.png">
+						<Candidate type="Path">
+							<Value>DB\Images\359.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="36.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/36.png">
+						<Candidate type="Path">
+							<Value>DB\Images\36.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="360.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/360.png">
+						<Candidate type="Path">
+							<Value>DB\Images\360.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="361.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/361.png">
+						<Candidate type="Path">
+							<Value>DB\Images\361.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="362.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/362.png">
+						<Candidate type="Path">
+							<Value>DB\Images\362.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="363.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/363.png">
+						<Candidate type="Path">
+							<Value>DB\Images\363.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="364.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/364.png">
+						<Candidate type="Path">
+							<Value>DB\Images\364.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="365.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/365.png">
+						<Candidate type="Path">
+							<Value>DB\Images\365.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="366.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/366.png">
+						<Candidate type="Path">
+							<Value>DB\Images\366.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="367.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/367.png">
+						<Candidate type="Path">
+							<Value>DB\Images\367.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="368.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/368.png">
+						<Candidate type="Path">
+							<Value>DB\Images\368.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="369.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/369.png">
+						<Candidate type="Path">
+							<Value>DB\Images\369.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="37.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/37.png">
+						<Candidate type="Path">
+							<Value>DB\Images\37.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="370.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/370.png">
+						<Candidate type="Path">
+							<Value>DB\Images\370.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="371.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/371.png">
+						<Candidate type="Path">
+							<Value>DB\Images\371.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="372.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/372.png">
+						<Candidate type="Path">
+							<Value>DB\Images\372.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="373.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/373.png">
+						<Candidate type="Path">
+							<Value>DB\Images\373.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="374.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/374.png">
+						<Candidate type="Path">
+							<Value>DB\Images\374.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="375.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/375.png">
+						<Candidate type="Path">
+							<Value>DB\Images\375.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="376.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/376.png">
+						<Candidate type="Path">
+							<Value>DB\Images\376.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="377.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/377.png">
+						<Candidate type="Path">
+							<Value>DB\Images\377.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="378.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/378.png">
+						<Candidate type="Path">
+							<Value>DB\Images\378.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="379.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/379.png">
+						<Candidate type="Path">
+							<Value>DB\Images\379.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="38.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/38.png">
+						<Candidate type="Path">
+							<Value>DB\Images\38.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="380.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/380.png">
+						<Candidate type="Path">
+							<Value>DB\Images\380.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="381.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/381.png">
+						<Candidate type="Path">
+							<Value>DB\Images\381.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="382.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/382.png">
+						<Candidate type="Path">
+							<Value>DB\Images\382.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="383-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/383-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\383-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="383.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/383.png">
+						<Candidate type="Path">
+							<Value>DB\Images\383.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="384.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/384.png">
+						<Candidate type="Path">
+							<Value>DB\Images\384.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="385.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/385.png">
+						<Candidate type="Path">
+							<Value>DB\Images\385.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="386.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/386.png">
+						<Candidate type="Path">
+							<Value>DB\Images\386.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="387.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/387.png">
+						<Candidate type="Path">
+							<Value>DB\Images\387.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="388.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/388.png">
+						<Candidate type="Path">
+							<Value>DB\Images\388.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="389.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/389.png">
+						<Candidate type="Path">
+							<Value>DB\Images\389.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="39.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/39.png">
+						<Candidate type="Path">
+							<Value>DB\Images\39.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="390.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/390.png">
+						<Candidate type="Path">
+							<Value>DB\Images\390.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="391.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/391.png">
+						<Candidate type="Path">
+							<Value>DB\Images\391.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="392.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/392.png">
+						<Candidate type="Path">
+							<Value>DB\Images\392.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="393.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/393.png">
+						<Candidate type="Path">
+							<Value>DB\Images\393.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="394.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/394.png">
+						<Candidate type="Path">
+							<Value>DB\Images\394.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="395.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/395.png">
+						<Candidate type="Path">
+							<Value>DB\Images\395.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="396.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/396.png">
+						<Candidate type="Path">
+							<Value>DB\Images\396.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="397.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/397.png">
+						<Candidate type="Path">
+							<Value>DB\Images\397.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="398.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/398.png">
+						<Candidate type="Path">
+							<Value>DB\Images\398.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="399.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/399.png">
+						<Candidate type="Path">
+							<Value>DB\Images\399.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="4.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/4.png">
+						<Candidate type="Path">
+							<Value>DB\Images\4.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="40.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/40.png">
+						<Candidate type="Path">
+							<Value>DB\Images\40.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="400.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/400.png">
+						<Candidate type="Path">
+							<Value>DB\Images\400.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="401.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/401.png">
+						<Candidate type="Path">
+							<Value>DB\Images\401.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="402.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/402.png">
+						<Candidate type="Path">
+							<Value>DB\Images\402.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="403.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/403.png">
+						<Candidate type="Path">
+							<Value>DB\Images\403.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="404.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/404.png">
+						<Candidate type="Path">
+							<Value>DB\Images\404.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="405.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/405.png">
+						<Candidate type="Path">
+							<Value>DB\Images\405.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="406.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/406.png">
+						<Candidate type="Path">
+							<Value>DB\Images\406.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="407.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/407.png">
+						<Candidate type="Path">
+							<Value>DB\Images\407.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="408.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/408.png">
+						<Candidate type="Path">
+							<Value>DB\Images\408.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="41.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/41.png">
+						<Candidate type="Path">
+							<Value>DB\Images\41.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="417.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/417.png">
+						<Candidate type="Path">
+							<Value>DB\Images\417.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="418.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/418.png">
+						<Candidate type="Path">
+							<Value>DB\Images\418.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="419.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/419.png">
+						<Candidate type="Path">
+							<Value>DB\Images\419.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="42.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/42.png">
+						<Candidate type="Path">
+							<Value>DB\Images\42.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="420.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/420.png">
+						<Candidate type="Path">
+							<Value>DB\Images\420.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="421.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/421.png">
+						<Candidate type="Path">
+							<Value>DB\Images\421.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="43.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/43.png">
+						<Candidate type="Path">
+							<Value>DB\Images\43.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="44.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/44.png">
+						<Candidate type="Path">
+							<Value>DB\Images\44.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="45.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/45.png">
+						<Candidate type="Path">
+							<Value>DB\Images\45.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="46.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/46.png">
+						<Candidate type="Path">
+							<Value>DB\Images\46.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="47.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/47.png">
+						<Candidate type="Path">
+							<Value>DB\Images\47.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="48.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/48.png">
+						<Candidate type="Path">
+							<Value>DB\Images\48.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="49.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/49.png">
+						<Candidate type="Path">
+							<Value>DB\Images\49.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="5-0.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/5-0.png">
+						<Candidate type="Path">
+							<Value>DB\Images\5-0.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="5-1.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/5-1.png">
+						<Candidate type="Path">
+							<Value>DB\Images\5-1.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="5-2.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/5-2.png">
+						<Candidate type="Path">
+							<Value>DB\Images\5-2.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="5-3.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/5-3.png">
+						<Candidate type="Path">
+							<Value>DB\Images\5-3.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="50.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/50.png">
+						<Candidate type="Path">
+							<Value>DB\Images\50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="51.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/51.png">
+						<Candidate type="Path">
+							<Value>DB\Images\51.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="52.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/52.png">
+						<Candidate type="Path">
+							<Value>DB\Images\52.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="53.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/53.png">
+						<Candidate type="Path">
+							<Value>DB\Images\53.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="54.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/54.png">
+						<Candidate type="Path">
+							<Value>DB\Images\54.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="55.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/55.png">
+						<Candidate type="Path">
+							<Value>DB\Images\55.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="56.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/56.png">
+						<Candidate type="Path">
+							<Value>DB\Images\56.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="57.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/57.png">
+						<Candidate type="Path">
+							<Value>DB\Images\57.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="58.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/58.png">
+						<Candidate type="Path">
+							<Value>DB\Images\58.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="59.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/59.png">
+						<Candidate type="Path">
+							<Value>DB\Images\59.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="6.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/6.png">
+						<Candidate type="Path">
+							<Value>DB\Images\6.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="60.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/60.png">
+						<Candidate type="Path">
+							<Value>DB\Images\60.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="61.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/61.png">
+						<Candidate type="Path">
+							<Value>DB\Images\61.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="62.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/62.png">
+						<Candidate type="Path">
+							<Value>DB\Images\62.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="63.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/63.png">
+						<Candidate type="Path">
+							<Value>DB\Images\63.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="64.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/64.png">
+						<Candidate type="Path">
+							<Value>DB\Images\64.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="65.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/65.png">
+						<Candidate type="Path">
+							<Value>DB\Images\65.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="66.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/66.png">
+						<Candidate type="Path">
+							<Value>DB\Images\66.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="67.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/67.png">
+						<Candidate type="Path">
+							<Value>DB\Images\67.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="68.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/68.png">
+						<Candidate type="Path">
+							<Value>DB\Images\68.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="69.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/69.png">
+						<Candidate type="Path">
+							<Value>DB\Images\69.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="7.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/7.png">
+						<Candidate type="Path">
+							<Value>DB\Images\7.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="70.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/70.png">
+						<Candidate type="Path">
+							<Value>DB\Images\70.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="71.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/71.png">
+						<Candidate type="Path">
+							<Value>DB\Images\71.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="72.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/72.png">
+						<Candidate type="Path">
+							<Value>DB\Images\72.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="73.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/73.png">
+						<Candidate type="Path">
+							<Value>DB\Images\73.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="74.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/74.png">
+						<Candidate type="Path">
+							<Value>DB\Images\74.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="75.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/75.png">
+						<Candidate type="Path">
+							<Value>DB\Images\75.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="76.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/76.png">
+						<Candidate type="Path">
+							<Value>DB\Images\76.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="77.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/77.png">
+						<Candidate type="Path">
+							<Value>DB\Images\77.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="78.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/78.png">
+						<Candidate type="Path">
+							<Value>DB\Images\78.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="79.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/79.png">
+						<Candidate type="Path">
+							<Value>DB\Images\79.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="8.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/8.png">
+						<Candidate type="Path">
+							<Value>DB\Images\8.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="80.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/80.png">
+						<Candidate type="Path">
+							<Value>DB\Images\80.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="81.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/81.png">
+						<Candidate type="Path">
+							<Value>DB\Images\81.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="82.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/82.png">
+						<Candidate type="Path">
+							<Value>DB\Images\82.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="83.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/83.png">
+						<Candidate type="Path">
+							<Value>DB\Images\83.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="84.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/84.png">
+						<Candidate type="Path">
+							<Value>DB\Images\84.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="85.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/85.png">
+						<Candidate type="Path">
+							<Value>DB\Images\85.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="86.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/86.png">
+						<Candidate type="Path">
+							<Value>DB\Images\86.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="87.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/87.png">
+						<Candidate type="Path">
+							<Value>DB\Images\87.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="88.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/88.png">
+						<Candidate type="Path">
+							<Value>DB\Images\88.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="89.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/89.png">
+						<Candidate type="Path">
+							<Value>DB\Images\89.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="9.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/9.png">
+						<Candidate type="Path">
+							<Value>DB\Images\9.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="90.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/90.png">
+						<Candidate type="Path">
+							<Value>DB\Images\90.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="91.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/91.png">
+						<Candidate type="Path">
+							<Value>DB\Images\91.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="92.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/92.png">
+						<Candidate type="Path">
+							<Value>DB\Images\92.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="93.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/93.png">
+						<Candidate type="Path">
+							<Value>DB\Images\93.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="94.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/94.png">
+						<Candidate type="Path">
+							<Value>DB\Images\94.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="95.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/95.png">
+						<Candidate type="Path">
+							<Value>DB\Images\95.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="96.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/96.png">
+						<Candidate type="Path">
+							<Value>DB\Images\96.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="97.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/97.png">
+						<Candidate type="Path">
+							<Value>DB\Images\97.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="98.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/98.png">
+						<Candidate type="Path">
+							<Value>DB\Images\98.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="99.png" uri="ms-resource://e2dffa37-195a-4d67-a852-348a31be4967/Files/DB/Images/99.png">
+						<Candidate type="Path">
+							<Value>DB\Images\99.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

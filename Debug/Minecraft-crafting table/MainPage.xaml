@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="Minecraft_crafting_table.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Minecraft_crafting_table"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Name="Title" HorizontalAlignment="Left" Margin="435,59,0,0" TextWrapping="Wrap" Text="Minecraft Recipes" TextAlignment="Center" FontSize="30" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="87" Width="495"/>
+        
+        <GridView Name="FavoriteScreen" HorizontalAlignment="Left" Margin="363,171,0,0" Grid.Row="1" VerticalAlignment="Top" Width="640" Grid.ColumnSpan="2" Height="170">
+            <Image Source="Assets/5-3.png" Height="150" Width="150"/>
+            <Image Source="Assets/5-3.png" Height="150" Width="150"/>
+            <Image Source="Assets/5-3.png" Height="150" Width="150"/>
+            <Image Source="Assets/5-3.png" Height="150" Width="150"/>
+        </GridView>
+        
+        <Image Name="RecipeScreen" HorizontalAlignment="Left" Height="300" Margin="533,233,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="300" Grid.ColumnSpan="2" Source="Assets/testbackground.png"/>
+
+    </Grid>
+</Page>
+

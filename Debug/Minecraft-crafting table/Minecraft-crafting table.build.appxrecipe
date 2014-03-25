@@ -1,0 +1,1245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMYRA</Machine>
+    <WindowsUser>PeerAndreas</WindowsUser>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>e2dffa37-195a-4d67-a852-348a31be4967</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft-crafting table.exe">
+      <PackagePath>Minecraft-crafting table.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft_crafting_table.winmd">
+      <PackagePath>Minecraft_crafting_table.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\Assets\5-3.png">
+      <PackagePath>Assets\5-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\Assets\testbackground.png">
+      <PackagePath>Assets\testbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\0.png">
+      <PackagePath>DB\Images\0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\1.png">
+      <PackagePath>DB\Images\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\10.png">
+      <PackagePath>DB\Images\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\100.png">
+      <PackagePath>DB\Images\100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\101.png">
+      <PackagePath>DB\Images\101.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\102.png">
+      <PackagePath>DB\Images\102.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\103.png">
+      <PackagePath>DB\Images\103.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\104.png">
+      <PackagePath>DB\Images\104.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\105.png">
+      <PackagePath>DB\Images\105.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\106.png">
+      <PackagePath>DB\Images\106.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\107.png">
+      <PackagePath>DB\Images\107.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\108.png">
+      <PackagePath>DB\Images\108.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\109.png">
+      <PackagePath>DB\Images\109.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\11.png">
+      <PackagePath>DB\Images\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\110.png">
+      <PackagePath>DB\Images\110.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\111.png">
+      <PackagePath>DB\Images\111.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\112.png">
+      <PackagePath>DB\Images\112.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\113.png">
+      <PackagePath>DB\Images\113.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\114.png">
+      <PackagePath>DB\Images\114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\115.png">
+      <PackagePath>DB\Images\115.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\116.png">
+      <PackagePath>DB\Images\116.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\117.png">
+      <PackagePath>DB\Images\117.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\118.png">
+      <PackagePath>DB\Images\118.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\119.png">
+      <PackagePath>DB\Images\119.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\12.png">
+      <PackagePath>DB\Images\12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\120.png">
+      <PackagePath>DB\Images\120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\121.png">
+      <PackagePath>DB\Images\121.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\122.png">
+      <PackagePath>DB\Images\122.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\123.png">
+      <PackagePath>DB\Images\123.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\124.png">
+      <PackagePath>DB\Images\124.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\125-0.png">
+      <PackagePath>DB\Images\125-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\125-1.png">
+      <PackagePath>DB\Images\125-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\125-2.png">
+      <PackagePath>DB\Images\125-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\125-3.png">
+      <PackagePath>DB\Images\125-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\126-0.png">
+      <PackagePath>DB\Images\126-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\126-1.png">
+      <PackagePath>DB\Images\126-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\126-2.png">
+      <PackagePath>DB\Images\126-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\126-3.png">
+      <PackagePath>DB\Images\126-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\127.png">
+      <PackagePath>DB\Images\127.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\128.png">
+      <PackagePath>DB\Images\128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\129.png">
+      <PackagePath>DB\Images\129.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\13.png">
+      <PackagePath>DB\Images\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\130.png">
+      <PackagePath>DB\Images\130.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\131.png">
+      <PackagePath>DB\Images\131.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\132.png">
+      <PackagePath>DB\Images\132.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\133.png">
+      <PackagePath>DB\Images\133.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\134.png">
+      <PackagePath>DB\Images\134.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\135.png">
+      <PackagePath>DB\Images\135.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\136.png">
+      <PackagePath>DB\Images\136.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\137.png">
+      <PackagePath>DB\Images\137.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\138.png">
+      <PackagePath>DB\Images\138.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\139.png">
+      <PackagePath>DB\Images\139.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\14.png">
+      <PackagePath>DB\Images\14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\140.png">
+      <PackagePath>DB\Images\140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\141.png">
+      <PackagePath>DB\Images\141.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\142.png">
+      <PackagePath>DB\Images\142.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\143.png">
+      <PackagePath>DB\Images\143.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\144.png">
+      <PackagePath>DB\Images\144.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\145.png">
+      <PackagePath>DB\Images\145.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\146.png">
+      <PackagePath>DB\Images\146.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\147.png">
+      <PackagePath>DB\Images\147.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\148.png">
+      <PackagePath>DB\Images\148.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\149.png">
+      <PackagePath>DB\Images\149.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\15.png">
+      <PackagePath>DB\Images\15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\150.png">
+      <PackagePath>DB\Images\150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\151.png">
+      <PackagePath>DB\Images\151.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\152.png">
+      <PackagePath>DB\Images\152.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\153.png">
+      <PackagePath>DB\Images\153.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\154.png">
+      <PackagePath>DB\Images\154.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\155-0.png">
+      <PackagePath>DB\Images\155-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\156.png">
+      <PackagePath>DB\Images\156.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\157.png">
+      <PackagePath>DB\Images\157.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\158.png">
+      <PackagePath>DB\Images\158.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\159.png">
+      <PackagePath>DB\Images\159.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\16.png">
+      <PackagePath>DB\Images\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\160.png">
+      <PackagePath>DB\Images\160.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\161.png">
+      <PackagePath>DB\Images\161.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\162.png">
+      <PackagePath>DB\Images\162.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\163.png">
+      <PackagePath>DB\Images\163.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\17-0.png">
+      <PackagePath>DB\Images\17-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\17-1.png">
+      <PackagePath>DB\Images\17-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\17-2.png">
+      <PackagePath>DB\Images\17-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\17-3.png">
+      <PackagePath>DB\Images\17-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\170.png">
+      <PackagePath>DB\Images\170.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-0.png">
+      <PackagePath>DB\Images\171-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-1.png">
+      <PackagePath>DB\Images\171-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-10.png">
+      <PackagePath>DB\Images\171-10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-11.png">
+      <PackagePath>DB\Images\171-11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-12.png">
+      <PackagePath>DB\Images\171-12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-13.png">
+      <PackagePath>DB\Images\171-13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-14.png">
+      <PackagePath>DB\Images\171-14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-15.png">
+      <PackagePath>DB\Images\171-15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-2.png">
+      <PackagePath>DB\Images\171-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-3.png">
+      <PackagePath>DB\Images\171-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-4.png">
+      <PackagePath>DB\Images\171-4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-5.png">
+      <PackagePath>DB\Images\171-5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-6.png">
+      <PackagePath>DB\Images\171-6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-7.png">
+      <PackagePath>DB\Images\171-7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-8.png">
+      <PackagePath>DB\Images\171-8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\171-9.png">
+      <PackagePath>DB\Images\171-9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\172.png">
+      <PackagePath>DB\Images\172.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\173.png">
+      <PackagePath>DB\Images\173.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\18.png">
+      <PackagePath>DB\Images\18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\19.png">
+      <PackagePath>DB\Images\19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\2.png">
+      <PackagePath>DB\Images\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\20.png">
+      <PackagePath>DB\Images\20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\21.png">
+      <PackagePath>DB\Images\21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\22.png">
+      <PackagePath>DB\Images\22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\23.png">
+      <PackagePath>DB\Images\23.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\24.png">
+      <PackagePath>DB\Images\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\25.png">
+      <PackagePath>DB\Images\25.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\256.png">
+      <PackagePath>DB\Images\256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\257.png">
+      <PackagePath>DB\Images\257.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\258.png">
+      <PackagePath>DB\Images\258.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\259.png">
+      <PackagePath>DB\Images\259.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\26.png">
+      <PackagePath>DB\Images\26.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\260.png">
+      <PackagePath>DB\Images\260.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\261.png">
+      <PackagePath>DB\Images\261.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\262.png">
+      <PackagePath>DB\Images\262.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\263-0.png">
+      <PackagePath>DB\Images\263-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\263-1.png">
+      <PackagePath>DB\Images\263-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\264.png">
+      <PackagePath>DB\Images\264.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\265.png">
+      <PackagePath>DB\Images\265.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\266.png">
+      <PackagePath>DB\Images\266.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\267.png">
+      <PackagePath>DB\Images\267.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\268.png">
+      <PackagePath>DB\Images\268.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\269.png">
+      <PackagePath>DB\Images\269.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\27.png">
+      <PackagePath>DB\Images\27.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\270.png">
+      <PackagePath>DB\Images\270.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\271.png">
+      <PackagePath>DB\Images\271.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\272.png">
+      <PackagePath>DB\Images\272.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\273.png">
+      <PackagePath>DB\Images\273.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\274.png">
+      <PackagePath>DB\Images\274.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\275.png">
+      <PackagePath>DB\Images\275.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\276.png">
+      <PackagePath>DB\Images\276.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\277.png">
+      <PackagePath>DB\Images\277.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\278.png">
+      <PackagePath>DB\Images\278.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\279.png">
+      <PackagePath>DB\Images\279.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\28.png">
+      <PackagePath>DB\Images\28.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\280.png">
+      <PackagePath>DB\Images\280.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\281.png">
+      <PackagePath>DB\Images\281.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\282.png">
+      <PackagePath>DB\Images\282.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\283.png">
+      <PackagePath>DB\Images\283.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\284.png">
+      <PackagePath>DB\Images\284.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\285.png">
+      <PackagePath>DB\Images\285.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\286.png">
+      <PackagePath>DB\Images\286.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\287.png">
+      <PackagePath>DB\Images\287.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\288.png">
+      <PackagePath>DB\Images\288.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\289.png">
+      <PackagePath>DB\Images\289.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\29.png">
+      <PackagePath>DB\Images\29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\290.png">
+      <PackagePath>DB\Images\290.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\291.png">
+      <PackagePath>DB\Images\291.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\292.png">
+      <PackagePath>DB\Images\292.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\293.png">
+      <PackagePath>DB\Images\293.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\294.png">
+      <PackagePath>DB\Images\294.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\295.png">
+      <PackagePath>DB\Images\295.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\296.png">
+      <PackagePath>DB\Images\296.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\297.png">
+      <PackagePath>DB\Images\297.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\298.png">
+      <PackagePath>DB\Images\298.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\299.png">
+      <PackagePath>DB\Images\299.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\3.png">
+      <PackagePath>DB\Images\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\30.png">
+      <PackagePath>DB\Images\30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\300.png">
+      <PackagePath>DB\Images\300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\301.png">
+      <PackagePath>DB\Images\301.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\302.png">
+      <PackagePath>DB\Images\302.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\303.png">
+      <PackagePath>DB\Images\303.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\304.png">
+      <PackagePath>DB\Images\304.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\305.png">
+      <PackagePath>DB\Images\305.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\306.png">
+      <PackagePath>DB\Images\306.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\307.png">
+      <PackagePath>DB\Images\307.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\308.png">
+      <PackagePath>DB\Images\308.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\309.png">
+      <PackagePath>DB\Images\309.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\31.png">
+      <PackagePath>DB\Images\31.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\310.png">
+      <PackagePath>DB\Images\310.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\311.png">
+      <PackagePath>DB\Images\311.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\312.png">
+      <PackagePath>DB\Images\312.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\313.png">
+      <PackagePath>DB\Images\313.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\314.png">
+      <PackagePath>DB\Images\314.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\315-15.png">
+      <PackagePath>DB\Images\315-15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\315.png">
+      <PackagePath>DB\Images\315.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\316.png">
+      <PackagePath>DB\Images\316.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\317.png">
+      <PackagePath>DB\Images\317.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\318.png">
+      <PackagePath>DB\Images\318.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\319.png">
+      <PackagePath>DB\Images\319.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\32.png">
+      <PackagePath>DB\Images\32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\320.png">
+      <PackagePath>DB\Images\320.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\321.png">
+      <PackagePath>DB\Images\321.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\322-0.png">
+      <PackagePath>DB\Images\322-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\322-1.png">
+      <PackagePath>DB\Images\322-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\323.png">
+      <PackagePath>DB\Images\323.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\324.png">
+      <PackagePath>DB\Images\324.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\325.png">
+      <PackagePath>DB\Images\325.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\326.PNG">
+      <PackagePath>DB\Images\326.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\327.PNG">
+      <PackagePath>DB\Images\327.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\328.png">
+      <PackagePath>DB\Images\328.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\329.png">
+      <PackagePath>DB\Images\329.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\33.png">
+      <PackagePath>DB\Images\33.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\330.png">
+      <PackagePath>DB\Images\330.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\331.png">
+      <PackagePath>DB\Images\331.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\332.png">
+      <PackagePath>DB\Images\332.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\333.png">
+      <PackagePath>DB\Images\333.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\334.png">
+      <PackagePath>DB\Images\334.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\335.png">
+      <PackagePath>DB\Images\335.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\336.png">
+      <PackagePath>DB\Images\336.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\337.png">
+      <PackagePath>DB\Images\337.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\338.png">
+      <PackagePath>DB\Images\338.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\339.png">
+      <PackagePath>DB\Images\339.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\34.png">
+      <PackagePath>DB\Images\34.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\340.png">
+      <PackagePath>DB\Images\340.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\341.png">
+      <PackagePath>DB\Images\341.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\342.png">
+      <PackagePath>DB\Images\342.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\343.png">
+      <PackagePath>DB\Images\343.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\344.png">
+      <PackagePath>DB\Images\344.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\345.png">
+      <PackagePath>DB\Images\345.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\346.png">
+      <PackagePath>DB\Images\346.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\347.png">
+      <PackagePath>DB\Images\347.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\348.PNG">
+      <PackagePath>DB\Images\348.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\349.png">
+      <PackagePath>DB\Images\349.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-0.png">
+      <PackagePath>DB\Images\35-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-1.png">
+      <PackagePath>DB\Images\35-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-10.png">
+      <PackagePath>DB\Images\35-10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-11.png">
+      <PackagePath>DB\Images\35-11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-12.png">
+      <PackagePath>DB\Images\35-12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-13.png">
+      <PackagePath>DB\Images\35-13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-14.png">
+      <PackagePath>DB\Images\35-14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-15.png">
+      <PackagePath>DB\Images\35-15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-2.png">
+      <PackagePath>DB\Images\35-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-3.png">
+      <PackagePath>DB\Images\35-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-4.png">
+      <PackagePath>DB\Images\35-4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-5.png">
+      <PackagePath>DB\Images\35-5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-6.png">
+      <PackagePath>DB\Images\35-6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-7.png">
+      <PackagePath>DB\Images\35-7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-8.png">
+      <PackagePath>DB\Images\35-8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\35-9.png">
+      <PackagePath>DB\Images\35-9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\350.png">
+      <PackagePath>DB\Images\350.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-0.png">
+      <PackagePath>DB\Images\351-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-1.png">
+      <PackagePath>DB\Images\351-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-10.png">
+      <PackagePath>DB\Images\351-10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-11.png">
+      <PackagePath>DB\Images\351-11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-12.png">
+      <PackagePath>DB\Images\351-12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-13.png">
+      <PackagePath>DB\Images\351-13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-14.png">
+      <PackagePath>DB\Images\351-14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-15.png">
+      <PackagePath>DB\Images\351-15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-2.png">
+      <PackagePath>DB\Images\351-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-3.png">
+      <PackagePath>DB\Images\351-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-4.png">
+      <PackagePath>DB\Images\351-4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-5.png">
+      <PackagePath>DB\Images\351-5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-6.png">
+      <PackagePath>DB\Images\351-6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-7.png">
+      <PackagePath>DB\Images\351-7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-8.png">
+      <PackagePath>DB\Images\351-8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\351-9.png">
+      <PackagePath>DB\Images\351-9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\352.png">
+      <PackagePath>DB\Images\352.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\353.png">
+      <PackagePath>DB\Images\353.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\354.png">
+      <PackagePath>DB\Images\354.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\355.png">
+      <PackagePath>DB\Images\355.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\356.png">
+      <PackagePath>DB\Images\356.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\357.png">
+      <PackagePath>DB\Images\357.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\358.png">
+      <PackagePath>DB\Images\358.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\359.png">
+      <PackagePath>DB\Images\359.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\36.png">
+      <PackagePath>DB\Images\36.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\360.png">
+      <PackagePath>DB\Images\360.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\361.png">
+      <PackagePath>DB\Images\361.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\362.png">
+      <PackagePath>DB\Images\362.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\363.png">
+      <PackagePath>DB\Images\363.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\364.png">
+      <PackagePath>DB\Images\364.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\365.png">
+      <PackagePath>DB\Images\365.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\366.png">
+      <PackagePath>DB\Images\366.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\367.png">
+      <PackagePath>DB\Images\367.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\368.png">
+      <PackagePath>DB\Images\368.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\369.png">
+      <PackagePath>DB\Images\369.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\37.png">
+      <PackagePath>DB\Images\37.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\370.png">
+      <PackagePath>DB\Images\370.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\371.png">
+      <PackagePath>DB\Images\371.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\372.png">
+      <PackagePath>DB\Images\372.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\373.png">
+      <PackagePath>DB\Images\373.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\374.png">
+      <PackagePath>DB\Images\374.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\375.png">
+      <PackagePath>DB\Images\375.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\376.png">
+      <PackagePath>DB\Images\376.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\377.png">
+      <PackagePath>DB\Images\377.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\378.png">
+      <PackagePath>DB\Images\378.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\379.png">
+      <PackagePath>DB\Images\379.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\38.png">
+      <PackagePath>DB\Images\38.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\380.png">
+      <PackagePath>DB\Images\380.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\381.png">
+      <PackagePath>DB\Images\381.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\382.png">
+      <PackagePath>DB\Images\382.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\383-0.png">
+      <PackagePath>DB\Images\383-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\383.png">
+      <PackagePath>DB\Images\383.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\384.png">
+      <PackagePath>DB\Images\384.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\385.png">
+      <PackagePath>DB\Images\385.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\386.png">
+      <PackagePath>DB\Images\386.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\387.png">
+      <PackagePath>DB\Images\387.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\388.png">
+      <PackagePath>DB\Images\388.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\389.png">
+      <PackagePath>DB\Images\389.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\39.png">
+      <PackagePath>DB\Images\39.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\390.png">
+      <PackagePath>DB\Images\390.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\391.png">
+      <PackagePath>DB\Images\391.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\392.png">
+      <PackagePath>DB\Images\392.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\393.png">
+      <PackagePath>DB\Images\393.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\394.png">
+      <PackagePath>DB\Images\394.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\395.png">
+      <PackagePath>DB\Images\395.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\396.png">
+      <PackagePath>DB\Images\396.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\397.png">
+      <PackagePath>DB\Images\397.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\398.png">
+      <PackagePath>DB\Images\398.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\399.png">
+      <PackagePath>DB\Images\399.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\4.png">
+      <PackagePath>DB\Images\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\40.png">
+      <PackagePath>DB\Images\40.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\400.png">
+      <PackagePath>DB\Images\400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\401.png">
+      <PackagePath>DB\Images\401.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\402.png">
+      <PackagePath>DB\Images\402.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\403.png">
+      <PackagePath>DB\Images\403.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\404.png">
+      <PackagePath>DB\Images\404.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\405.png">
+      <PackagePath>DB\Images\405.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\406.png">
+      <PackagePath>DB\Images\406.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\407.png">
+      <PackagePath>DB\Images\407.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\408.png">
+      <PackagePath>DB\Images\408.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\41.png">
+      <PackagePath>DB\Images\41.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\417.png">
+      <PackagePath>DB\Images\417.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\418.png">
+      <PackagePath>DB\Images\418.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\419.png">
+      <PackagePath>DB\Images\419.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\42.png">
+      <PackagePath>DB\Images\42.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\420.png">
+      <PackagePath>DB\Images\420.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\421.png">
+      <PackagePath>DB\Images\421.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\43.png">
+      <PackagePath>DB\Images\43.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\44.png">
+      <PackagePath>DB\Images\44.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\45.png">
+      <PackagePath>DB\Images\45.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\46.png">
+      <PackagePath>DB\Images\46.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\47.png">
+      <PackagePath>DB\Images\47.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\48.png">
+      <PackagePath>DB\Images\48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\49.png">
+      <PackagePath>DB\Images\49.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\5-0.png">
+      <PackagePath>DB\Images\5-0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\5-1.png">
+      <PackagePath>DB\Images\5-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\5-2.png">
+      <PackagePath>DB\Images\5-2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\5-3.png">
+      <PackagePath>DB\Images\5-3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\50.png">
+      <PackagePath>DB\Images\50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\51.png">
+      <PackagePath>DB\Images\51.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\52.png">
+      <PackagePath>DB\Images\52.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\53.png">
+      <PackagePath>DB\Images\53.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\54.png">
+      <PackagePath>DB\Images\54.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\55.png">
+      <PackagePath>DB\Images\55.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\56.png">
+      <PackagePath>DB\Images\56.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\57.png">
+      <PackagePath>DB\Images\57.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\58.png">
+      <PackagePath>DB\Images\58.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\59.png">
+      <PackagePath>DB\Images\59.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\6.png">
+      <PackagePath>DB\Images\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\60.png">
+      <PackagePath>DB\Images\60.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\61.png">
+      <PackagePath>DB\Images\61.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\62.png">
+      <PackagePath>DB\Images\62.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\63.png">
+      <PackagePath>DB\Images\63.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\64.png">
+      <PackagePath>DB\Images\64.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\65.png">
+      <PackagePath>DB\Images\65.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\66.png">
+      <PackagePath>DB\Images\66.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\67.png">
+      <PackagePath>DB\Images\67.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\68.png">
+      <PackagePath>DB\Images\68.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\69.png">
+      <PackagePath>DB\Images\69.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\7.png">
+      <PackagePath>DB\Images\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\70.png">
+      <PackagePath>DB\Images\70.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\71.png">
+      <PackagePath>DB\Images\71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\72.png">
+      <PackagePath>DB\Images\72.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\73.png">
+      <PackagePath>DB\Images\73.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\74.png">
+      <PackagePath>DB\Images\74.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\75.png">
+      <PackagePath>DB\Images\75.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\76.png">
+      <PackagePath>DB\Images\76.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\77.png">
+      <PackagePath>DB\Images\77.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\78.png">
+      <PackagePath>DB\Images\78.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\79.png">
+      <PackagePath>DB\Images\79.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\8.png">
+      <PackagePath>DB\Images\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\80.png">
+      <PackagePath>DB\Images\80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\81.png">
+      <PackagePath>DB\Images\81.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\82.png">
+      <PackagePath>DB\Images\82.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\83.png">
+      <PackagePath>DB\Images\83.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\84.png">
+      <PackagePath>DB\Images\84.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\85.png">
+      <PackagePath>DB\Images\85.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\86.png">
+      <PackagePath>DB\Images\86.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\87.png">
+      <PackagePath>DB\Images\87.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\88.png">
+      <PackagePath>DB\Images\88.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\89.png">
+      <PackagePath>DB\Images\89.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\9.png">
+      <PackagePath>DB\Images\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\90.png">
+      <PackagePath>DB\Images\90.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\91.png">
+      <PackagePath>DB\Images\91.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\92.png">
+      <PackagePath>DB\Images\92.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\93.png">
+      <PackagePath>DB\Images\93.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\94.png">
+      <PackagePath>DB\Images\94.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\95.png">
+      <PackagePath>DB\Images\95.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\96.png">
+      <PackagePath>DB\Images\96.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\97.png">
+      <PackagePath>DB\Images\97.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\98.png">
+      <PackagePath>DB\Images\98.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\DB\Images\99.png">
+      <PackagePath>DB\Images\99.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

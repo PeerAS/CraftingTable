@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{047dce37-8d53-4a4d-bb68-3880f1089d2b}</ProjectGuid>
+    <RootNamespace>Minecraft_crafting_table</RootNamespace>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
+    <AppContainerApplication>true</AppContainerApplication>
+    <ApplicationType>Windows Store</ApplicationType>
+    <ApplicationTypeRevision>8.1</ApplicationTypeRevision>
+    <ProjectName>Minecraft-crafting-table</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|ARM'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <PackageCertificateKeyFile>Minecraft-crafting table_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">
+    <ClCompile>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+      <DisableSpecificWarnings>4453</DisableSpecificWarnings>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM'">
+    <ClCompile>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+      <DisableSpecificWarnings>4453</DisableSpecificWarnings>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+      <DisableSpecificWarnings>4453</DisableSpecificWarnings>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+      <DisableSpecificWarnings>4453</DisableSpecificWarnings>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+      <DisableSpecificWarnings>4453</DisableSpecificWarnings>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
+      <DisableSpecificWarnings>4453</DisableSpecificWarnings>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="MinecraftItems.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="App.xaml.h">
+      <DependentUpon>App.xaml</DependentUpon>
+    </ClInclude>
+    <ClInclude Include="MainPage.xaml.h">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Common\StandardStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="Minecraft-crafting table_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\5-3.png" />
+    <Image Include="Assets\Logo.png" />
+    <Image Include="Assets\SmallLogo.png" />
+    <Image Include="Assets\StoreLogo.png" />
+    <Image Include="Assets\SplashScreen.png" />
+    <Image Include="Assets\testbackground.png" />
+    <Image Include="DB\Images\0.png" />
+    <Image Include="DB\Images\1.png" />
+    <Image Include="DB\Images\10.png" />
+    <Image Include="DB\Images\100.png" />
+    <Image Include="DB\Images\101.png" />
+    <Image Include="DB\Images\102.png" />
+    <Image Include="DB\Images\103.png" />
+    <Image Include="DB\Images\104.png" />
+    <Image Include="DB\Images\105.png" />
+    <Image Include="DB\Images\106.png" />
+    <Image Include="DB\Images\107.png" />
+    <Image Include="DB\Images\108.png" />
+    <Image Include="DB\Images\109.png" />
+    <Image Include="DB\Images\11.png" />
+    <Image Include="DB\Images\110.png" />
+    <Image Include="DB\Images\111.png" />
+    <Image Include="DB\Images\112.png" />
+    <Image Include="DB\Images\113.png" />
+    <Image Include="DB\Images\114.png" />
+    <Image Include="DB\Images\115.png" />
+    <Image Include="DB\Images\116.png" />
+    <Image Include="DB\Images\117.png" />
+    <Image Include="DB\Images\118.png" />
+    <Image Include="DB\Images\119.png" />
+    <Image Include="DB\Images\12.png" />
+    <Image Include="DB\Images\120.png" />
+    <Image Include="DB\Images\121.png" />
+    <Image Include="DB\Images\122.png" />
+    <Image Include="DB\Images\123.png" />
+    <Image Include="DB\Images\124.png" />
+    <Image Include="DB\Images\125-0.png" />
+    <Image Include="DB\Images\125-1.png" />
+    <Image Include="DB\Images\125-2.png" />
+    <Image Include="DB\Images\125-3.png" />
+    <Image Include="DB\Images\126-0.png" />
+    <Image Include="DB\Images\126-1.png" />
+    <Image Include="DB\Images\126-2.png" />
+    <Image Include="DB\Images\126-3.png" />
+    <Image Include="DB\Images\127.png" />
+    <Image Include="DB\Images\128.png" />
+    <Image Include="DB\Images\129.png" />
+    <Image Include="DB\Images\13.png" />
+    <Image Include="DB\Images\130.png" />
+    <Image Include="DB\Images\131.png" />
+    <Image Include="DB\Images\132.png" />
+    <Image Include="DB\Images\133.png" />
+    <Image Include="DB\Images\134.png" />
+    <Image Include="DB\Images\135.png" />
+    <Image Include="DB\Images\136.png" />
+    <Image Include="DB\Images\137.png" />
+    <Image Include="DB\Images\138.png" />
+    <Image Include="DB\Images\139.png" />
+    <Image Include="DB\Images\14.png" />
+    <Image Include="DB\Images\140.png" />
+    <Image Include="DB\Images\141.png" />
+    <Image Include="DB\Images\142.png" />
+    <Image Include="DB\Images\143.png" />
+    <Image Include="DB\Images\144.png" />
+    <Image Include="DB\Images\145.png" />
+    <Image Include="DB\Images\146.png" />
+    <Image Include="DB\Images\147.png" />
+    <Image Include="DB\Images\148.png" />
+    <Image Include="DB\Images\149.png" />
+    <Image Include="DB\Images\15.png" />
+    <Image Include="DB\Images\150.png" />
+    <Image Include="DB\Images\151.png" />
+    <Image Include="DB\Images\152.png" />
+    <Image Include="DB\Images\153.png" />
+    <Image Include="DB\Images\154.png" />
+    <Image Include="DB\Images\155-0.png" />
+    <Image Include="DB\Images\156.png" />
+    <Image Include="DB\Images\157.png" />
+    <Image Include="DB\Images\158.png" />
+    <Image Include="DB\Images\159.png" />
+    <Image Include="DB\Images\16.png" />
+    <Image Include="DB\Images\160.png" />
+    <Image Include="DB\Images\161.png" />
+    <Image Include="DB\Images\162.png" />
+    <Image Include="DB\Images\163.png" />
+    <Image Include="DB\Images\17-0.png" />
+    <Image Include="DB\Images\17-1.png" />
+    <Image Include="DB\Images\17-2.png" />
+    <Image Include="DB\Images\17-3.png" />
+    <Image Include="DB\Images\170.png" />
+    <Image Include="DB\Images\171-0.png" />
+    <Image Include="DB\Images\171-1.png" />
+    <Image Include="DB\Images\171-10.png" />
+    <Image Include="DB\Images\171-11.png" />
+    <Image Include="DB\Images\171-12.png" />
+    <Image Include="DB\Images\171-13.png" />
+    <Image Include="DB\Images\171-14.png" />
+    <Image Include="DB\Images\171-15.png" />
+    <Image Include="DB\Images\171-2.png" />
+    <Image Include="DB\Images\171-3.png" />
+    <Image Include="DB\Images\171-4.png" />
+    <Image Include="DB\Images\171-5.png" />
+    <Image Include="DB\Images\171-6.png" />
+    <Image Include="DB\Images\171-7.png" />
+    <Image Include="DB\Images\171-8.png" />
+    <Image Include="DB\Images\171-9.png" />
+    <Image Include="DB\Images\172.png" />
+    <Image Include="DB\Images\173.png" />
+    <Image Include="DB\Images\18.png" />
+    <Image Include="DB\Images\19.png" />
+    <Image Include="DB\Images\2.png" />
+    <Image Include="DB\Images\20.png" />
+    <Image Include="DB\Images\21.png" />
+    <Image Include="DB\Images\22.png" />
+    <Image Include="DB\Images\23.png" />
+    <Image Include="DB\Images\24.png" />
+    <Image Include="DB\Images\25.png" />
+    <Image Include="DB\Images\256.png" />
+    <Image Include="DB\Images\257.png" />
+    <Image Include="DB\Images\258.png" />
+    <Image Include="DB\Images\259.png" />
+    <Image Include="DB\Images\26.png" />
+    <Image Include="DB\Images\260.png" />
+    <Image Include="DB\Images\261.png" />
+    <Image Include="DB\Images\262.png" />
+    <Image Include="DB\Images\263-0.png" />
+    <Image Include="DB\Images\263-1.png" />
+    <Image Include="DB\Images\264.png" />
+    <Image Include="DB\Images\265.png" />
+    <Image Include="DB\Images\266.png" />
+    <Image Include="DB\Images\267.png" />
+    <Image Include="DB\Images\268.png" />
+    <Image Include="DB\Images\269.png" />
+    <Image Include="DB\Images\27.png" />
+    <Image Include="DB\Images\270.png" />
+    <Image Include="DB\Images\271.png" />
+    <Image Include="DB\Images\272.png" />
+    <Image Include="DB\Images\273.png" />
+    <Image Include="DB\Images\274.png" />
+    <Image Include="DB\Images\275.png" />
+    <Image Include="DB\Images\276.png" />
+    <Image Include="DB\Images\277.png" />
+    <Image Include="DB\Images\278.png" />
+    <Image Include="DB\Images\279.png" />
+    <Image Include="DB\Images\28.png" />
+    <Image Include="DB\Images\280.png" />
+    <Image Include="DB\Images\281.png" />
+    <Image Include="DB\Images\282.png" />
+    <Image Include="DB\Images\283.png" />
+    <Image Include="DB\Images\284.png" />
+    <Image Include="DB\Images\285.png" />
+    <Image Include="DB\Images\286.png" />
+    <Image Include="DB\Images\287.png" />
+    <Image Include="DB\Images\288.png" />
+    <Image Include="DB\Images\289.png" />
+    <Image Include="DB\Images\29.png" />
+    <Image Include="DB\Images\290.png" />
+    <Image Include="DB\Images\291.png" />
+    <Image Include="DB\Images\292.png" />
+    <Image Include="DB\Images\293.png" />
+    <Image Include="DB\Images\294.png" />
+    <Image Include="DB\Images\295.png" />
+    <Image Include="DB\Images\296.png" />
+    <Image Include="DB\Images\297.png" />
+    <Image Include="DB\Images\298.png" />
+    <Image Include="DB\Images\299.png" />
+    <Image Include="DB\Images\3.png" />
+    <Image Include="DB\Images\30.png" />
+    <Image Include="DB\Images\300.png" />
+    <Image Include="DB\Images\301.png" />
+    <Image Include="DB\Images\302.png" />
+    <Image Include="DB\Images\303.png" />
+    <Image Include="DB\Images\304.png" />
+    <Image Include="DB\Images\305.png" />
+    <Image Include="DB\Images\306.png" />
+    <Image Include="DB\Images\307.png" />
+    <Image Include="DB\Images\308.png" />
+    <Image Include="DB\Images\309.png" />
+    <Image Include="DB\Images\31.png" />
+    <Image Include="DB\Images\310.png" />
+    <Image Include="DB\Images\311.png" />
+    <Image Include="DB\Images\312.png" />
+    <Image Include="DB\Images\313.png" />
+    <Image Include="DB\Images\314.png" />
+    <Image Include="DB\Images\315-15.png" />
+    <Image Include="DB\Images\315.png" />
+    <Image Include="DB\Images\316.png" />
+    <Image Include="DB\Images\317.png" />
+    <Image Include="DB\Images\318.png" />
+    <Image Include="DB\Images\319.png" />
+    <Image Include="DB\Images\32.png" />
+    <Image Include="DB\Images\320.png" />
+    <Image Include="DB\Images\321.png" />
+    <Image Include="DB\Images\322-0.png" />
+    <Image Include="DB\Images\322-1.png" />
+    <Image Include="DB\Images\323.png" />
+    <Image Include="DB\Images\324.png" />
+    <Image Include="DB\Images\325.png" />
+    <Image Include="DB\Images\326.PNG" />
+    <Image Include="DB\Images\327.PNG" />
+    <Image Include="DB\Images\328.png" />
+    <Image Include="DB\Images\329.png" />
+    <Image Include="DB\Images\33.png" />
+    <Image Include="DB\Images\330.png" />
+    <Image Include="DB\Images\331.png" />
+    <Image Include="DB\Images\332.png" />
+    <Image Include="DB\Images\333.png" />
+    <Image Include="DB\Images\334.png" />
+    <Image Include="DB\Images\335.png" />
+    <Image Include="DB\Images\336.png" />
+    <Image Include="DB\Images\337.png" />
+    <Image Include="DB\Images\338.png" />
+    <Image Include="DB\Images\339.png" />
+    <Image Include="DB\Images\34.png" />
+    <Image Include="DB\Images\340.png" />
+    <Image Include="DB\Images\341.png" />
+    <Image Include="DB\Images\342.png" />
+    <Image Include="DB\Images\343.png" />
+    <Image Include="DB\Images\344.png" />
+    <Image Include="DB\Images\345.png" />
+    <Image Include="DB\Images\346.png" />
+    <Image Include="DB\Images\347.png" />
+    <Image Include="DB\Images\348.PNG" />
+    <Image Include="DB\Images\349.png" />
+    <Image Include="DB\Images\35-0.png" />
+    <Image Include="DB\Images\35-1.png" />
+    <Image Include="DB\Images\35-10.png" />
+    <Image Include="DB\Images\35-11.png" />
+    <Image Include="DB\Images\35-12.png" />
+    <Image Include="DB\Images\35-13.png" />
+    <Image Include="DB\Images\35-14.png" />
+    <Image Include="DB\Images\35-15.png" />
+    <Image Include="DB\Images\35-2.png" />
+    <Image Include="DB\Images\35-3.png" />
+    <Image Include="DB\Images\35-4.png" />
+    <Image Include="DB\Images\35-5.png" />
+    <Image Include="DB\Images\35-6.png" />
+    <Image Include="DB\Images\35-7.png" />
+    <Image Include="DB\Images\35-8.png" />
+    <Image Include="DB\Images\35-9.png" />
+    <Image Include="DB\Images\350.png" />
+    <Image Include="DB\Images\351-0.png" />
+    <Image Include="DB\Images\351-1.png" />
+    <Image Include="DB\Images\351-10.png" />
+    <Image Include="DB\Images\351-11.png" />
+    <Image Include="DB\Images\351-12.png" />
+    <Image Include="DB\Images\351-13.png" />
+    <Image Include="DB\Images\351-14.png" />
+    <Image Include="DB\Images\351-15.png" />
+    <Image Include="DB\Images\351-2.png" />
+    <Image Include="DB\Images\351-3.png" />
+    <Image Include="DB\Images\351-4.png" />
+    <Image Include="DB\Images\351-5.png" />
+    <Image Include="DB\Images\351-6.png" />
+    <Image Include="DB\Images\351-7.png" />
+    <Image Include="DB\Images\351-8.png" />
+    <Image Include="DB\Images\351-9.png" />
+    <Image Include="DB\Images\352.png" />
+    <Image Include="DB\Images\353.png" />
+    <Image Include="DB\Images\354.png" />
+    <Image Include="DB\Images\355.png" />
+    <Image Include="DB\Images\356.png" />
+    <Image Include="DB\Images\357.png" />
+    <Image Include="DB\Images\358.png" />
+    <Image Include="DB\Images\359.png" />
+    <Image Include="DB\Images\36.png" />
+    <Image Include="DB\Images\360.png" />
+    <Image Include="DB\Images\361.png" />
+    <Image Include="DB\Images\362.png" />
+    <Image Include="DB\Images\363.png" />
+    <Image Include="DB\Images\364.png" />
+    <Image Include="DB\Images\365.png" />
+    <Image Include="DB\Images\366.png" />
+    <Image Include="DB\Images\367.png" />
+    <Image Include="DB\Images\368.png" />
+    <Image Include="DB\Images\369.png" />
+    <Image Include="DB\Images\37.png" />
+    <Image Include="DB\Images\370.png" />
+    <Image Include="DB\Images\371.png" />
+    <Image Include="DB\Images\372.png" />
+    <Image Include="DB\Images\373.png" />
+    <Image Include="DB\Images\374.png" />
+    <Image Include="DB\Images\375.png" />
+    <Image Include="DB\Images\376.png" />
+    <Image Include="DB\Images\377.png" />
+    <Image Include="DB\Images\378.png" />
+    <Image Include="DB\Images\379.png" />
+    <Image Include="DB\Images\38.png" />
+    <Image Include="DB\Images\380.png" />
+    <Image Include="DB\Images\381.png" />
+    <Image Include="DB\Images\382.png" />
+    <Image Include="DB\Images\383-0.png" />
+    <Image Include="DB\Images\383.png" />
+    <Image Include="DB\Images\384.png" />
+    <Image Include="DB\Images\385.png" />
+    <Image Include="DB\Images\386.png" />
+    <Image Include="DB\Images\387.png" />
+    <Image Include="DB\Images\388.png" />
+    <Image Include="DB\Images\389.png" />
+    <Image Include="DB\Images\39.png" />
+    <Image Include="DB\Images\390.png" />
+    <Image Include="DB\Images\391.png" />
+    <Image Include="DB\Images\392.png" />
+    <Image Include="DB\Images\393.png" />
+    <Image Include="DB\Images\394.png" />
+    <Image Include="DB\Images\395.png" />
+    <Image Include="DB\Images\396.png" />
+    <Image Include="DB\Images\397.png" />
+    <Image Include="DB\Images\398.png" />
+    <Image Include="DB\Images\399.png" />
+    <Image Include="DB\Images\4.png" />
+    <Image Include="DB\Images\40.png" />
+    <Image Include="DB\Images\400.png" />
+    <Image Include="DB\Images\401.png" />
+    <Image Include="DB\Images\402.png" />
+    <Image Include="DB\Images\403.png" />
+    <Image Include="DB\Images\404.png" />
+    <Image Include="DB\Images\405.png" />
+    <Image Include="DB\Images\406.png" />
+    <Image Include="DB\Images\407.png" />
+    <Image Include="DB\Images\408.png" />
+    <Image Include="DB\Images\41.png" />
+    <Image Include="DB\Images\417.png" />
+    <Image Include="DB\Images\418.png" />
+    <Image Include="DB\Images\419.png" />
+    <Image Include="DB\Images\42.png" />
+    <Image Include="DB\Images\420.png" />
+    <Image Include="DB\Images\421.png" />
+    <Image Include="DB\Images\43.png" />
+    <Image Include="DB\Images\44.png" />
+    <Image Include="DB\Images\45.png" />
+    <Image Include="DB\Images\46.png" />
+    <Image Include="DB\Images\47.png" />
+    <Image Include="DB\Images\48.png" />
+    <Image Include="DB\Images\49.png" />
+    <Image Include="DB\Images\5-0.png" />
+    <Image Include="DB\Images\5-1.png" />
+    <Image Include="DB\Images\5-2.png" />
+    <Image Include="DB\Images\5-3.png" />
+    <Image Include="DB\Images\50.png" />
+    <Image Include="DB\Images\51.png" />
+    <Image Include="DB\Images\52.png" />
+    <Image Include="DB\Images\53.png" />
+    <Image Include="DB\Images\54.png" />
+    <Image Include="DB\Images\55.png" />
+    <Image Include="DB\Images\56.png" />
+    <Image Include="DB\Images\57.png" />
+    <Image Include="DB\Images\58.png" />
+    <Image Include="DB\Images\59.png" />
+    <Image Include="DB\Images\6.png" />
+    <Image Include="DB\Images\60.png" />
+    <Image Include="DB\Images\61.png" />
+    <Image Include="DB\Images\62.png" />
+    <Image Include="DB\Images\63.png" />
+    <Image Include="DB\Images\64.png" />
+    <Image Include="DB\Images\65.png" />
+    <Image Include="DB\Images\66.png" />
+    <Image Include="DB\Images\67.png" />
+    <Image Include="DB\Images\68.png" />
+    <Image Include="DB\Images\69.png" />
+    <Image Include="DB\Images\7.png" />
+    <Image Include="DB\Images\70.png" />
+    <Image Include="DB\Images\71.png" />
+    <Image Include="DB\Images\72.png" />
+    <Image Include="DB\Images\73.png" />
+    <Image Include="DB\Images\74.png" />
+    <Image Include="DB\Images\75.png" />
+    <Image Include="DB\Images\76.png" />
+    <Image Include="DB\Images\77.png" />
+    <Image Include="DB\Images\78.png" />
+    <Image Include="DB\Images\79.png" />
+    <Image Include="DB\Images\8.png" />
+    <Image Include="DB\Images\80.png" />
+    <Image Include="DB\Images\81.png" />
+    <Image Include="DB\Images\82.png" />
+    <Image Include="DB\Images\83.png" />
+    <Image Include="DB\Images\84.png" />
+    <Image Include="DB\Images\85.png" />
+    <Image Include="DB\Images\86.png" />
+    <Image Include="DB\Images\87.png" />
+    <Image Include="DB\Images\88.png" />
+    <Image Include="DB\Images\89.png" />
+    <Image Include="DB\Images\9.png" />
+    <Image Include="DB\Images\90.png" />
+    <Image Include="DB\Images\91.png" />
+    <Image Include="DB\Images\92.png" />
+    <Image Include="DB\Images\93.png" />
+    <Image Include="DB\Images\94.png" />
+    <Image Include="DB\Images\95.png" />
+    <Image Include="DB\Images\96.png" />
+    <Image Include="DB\Images\97.png" />
+    <Image Include="DB\Images\98.png" />
+    <Image Include="DB\Images\99.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.xaml.cpp">
+      <DependentUpon>App.xaml</DependentUpon>
+    </ClCompile>
+    <ClCompile Include="MainPage.xaml.cpp">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </ClCompile>
+    <ClCompile Include="MinecraftItems.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|ARM'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Minecraft-crafting table.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
