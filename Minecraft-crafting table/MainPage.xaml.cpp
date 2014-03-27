@@ -59,9 +59,7 @@ void Minecraft_crafting_table::MainPage::favoriteClick(Platform::Object^ sender,
 	{
 		favoriteList->Append(currentBlock);
 	}
-		
 }
-
 
 void Minecraft_crafting_table::MainPage::FavoriteScreen_SelectionChanged(Platform::Object^ sender, Windows::UI::Xaml::Controls::SelectionChangedEventArgs^ e)
 {

@@ -21,7 +21,7 @@
     <Resource Language="EN-US" />
   </Resources>
   <Applications>
-    <Application Id="App" Executable="Minecraft-crafting table.exe" EntryPoint="Minecraft_crafting_table.App">
+    <Application Id="App" Executable="Minecraft-crafting-table.exe" EntryPoint="Minecraft_crafting_table.App">
       <m2:VisualElements DisplayName="Minecraft-crafting table" Description="Minecraft-crafting table" BackgroundColor="#464646" ForegroundText="light" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png">
         <m2:DefaultTile>
           <m2:ShowNameOnTiles>

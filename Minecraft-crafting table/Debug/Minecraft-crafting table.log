@@ -1,31 +1,133 @@
-﻿Build started 25/03/2014 14:30:30.
-     1>Project "H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table.vcxproj" on node 2 (Build target(s)).
+﻿Build started 26/03/2014 20:57:52.
+     1>Project "H:\GitRepos\Minecraft-crafting table\Minecraft-crafting-table\Minecraft-crafting table\Minecraft-crafting table.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Minecraft-crafting table.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\\" /I"Generated Files\\" /IDebug\ /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\Minecraft-crafting table.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj App.xaml.cpp MainPage.xaml.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"H:\GitRepos\Minecraft-crafting table\Minecraft-crafting-table\Minecraft-crafting table\\" /I"Generated Files\\" /IDebug\ /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\Minecraft-crafting-table.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj App.xaml.cpp MainPage.xaml.cpp MinecraftItems.cpp
          App.xaml.cpp
          MainPage.xaml.cpp
-       CreateWinMD:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft-crafting table.exe" /INCREMENTAL /NOLOGO kernel32.lib /MANIFEST:NO /DEBUG /PDB:"H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft-crafting table.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /APPCONTAINER /WINMD:ONLY /WINMDFILE:"H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft_crafting_table.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 "Debug\Minecraft-crafting table.res"
-         Debug\App.xaml.obj
-         Debug\MainPage.xaml.obj
-         Debug\MinecraftItems.obj
-         Debug\pch.obj
-         Debug\XamlTypeInfo.Impl.g.obj
-       CompileXamlGeneratedFiles:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\\" /I"Generated Files\\" /IDebug\ /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\Minecraft-crafting table.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj "Generated Files\XamlTypeInfo.g.cpp"
-         XamlTypeInfo.g.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft-crafting table.exe" /INCREMENTAL /NOLOGO kernel32.lib /MANIFEST:NO /DEBUG /PDB:"H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft-crafting table.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /APPCONTAINER /WINMD:NO /WINMDFILE:"H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft_crafting_table.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 "Debug\Minecraft-crafting table.res"
-         Debug\App.xaml.obj
-         Debug\MainPage.xaml.obj
-         Debug\MinecraftItems.obj
-         Debug\pch.obj
-         Debug\XamlTypeInfo.Impl.g.obj
-         Debug\XamlTypeInfo.g.obj
-            Creating library H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft-crafting table.lib and object H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft-crafting table.exp
-         Minecraft-crafting table.vcxproj -> H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Debug\Minecraft-crafting table\Minecraft-crafting table.exe
-     1>Done Building Project "H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table.vcxproj" (Build target(s)).
+         MinecraftItems.cpp
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(89): error C3986: 'get': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (App.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(89): error C3986: 'get': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (App.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(93): error C3986: 'set': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (App.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(93): error C3986: 'set': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (App.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'get': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (App.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'get': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (App.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'set': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (App.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'set': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (App.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(89): error C3986: 'get': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MainPage.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(89): error C3986: 'get': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MainPage.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(93): error C3986: 'set': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MainPage.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(93): error C3986: 'set': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MainPage.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'get': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MainPage.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'get': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MainPage.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'set': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MainPage.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'set': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MainPage.xaml.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(89): error C3986: 'get': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MinecraftItems.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(89): error C3986: 'get': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MinecraftItems.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(93): error C3986: 'set': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MinecraftItems.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(93): error C3986: 'set': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MinecraftItems.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'get': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MinecraftItems.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'get': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MinecraftItems.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'set': signature of public member contains native type 'std::vector<Platform::String ^,std::allocator<_Ty>>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MinecraftItems.cpp)
+     1>h:\gitrepos\minecraft-crafting table\minecraft-crafting-table\minecraft-crafting table\minecraftitems.h(115): error C3986: 'set': signature of public member contains native type 'std::allocator<_Ty>'
+                 with
+                 [
+                     _Ty=Platform::String ^
+                 ] (MinecraftItems.cpp)
+     1>Done Building Project "H:\GitRepos\Minecraft-crafting table\Minecraft-crafting-table\Minecraft-crafting table\Minecraft-crafting table.vcxproj" (Build target(s)) -- FAILED.
 
-Build succeeded.
+Build FAILED.
 
-Time Elapsed 00:00:03.51
+Time Elapsed 00:00:00.84

@@ -1,1 +1,1 @@
-H:\GitRepos\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table\Minecraft-crafting table.vcxproj;x86
+H:\GitRepos\Minecraft-crafting table\Minecraft-crafting-table\Minecraft-crafting table\Minecraft-crafting table.vcxproj;x86

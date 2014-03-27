@@ -7,6 +7,8 @@ using namespace Windows::UI::Xaml::Data;
 using namespace Windows::UI::Xaml::Media;
 using namespace Windows::UI::Xaml::Media::Imaging;
 
+#include <vector>
+
 
 namespace Blocks
 {
@@ -17,7 +19,9 @@ namespace Blocks
 		Platform::String^ blockType; //'crafted', 'cooked', 'none'
 		Platform::String^ blockID;	//blockID
 		int blockOutput;	//how much of the block is produced
+		std::vector<Platform::String^> recipe;
 		ImageSource^ blockImage;
+
 
 		event PropertyChangedEventHandler^ propertyChanged;
 
@@ -77,6 +81,19 @@ namespace Blocks
 				{
 					blockOutput = value;
 					OnPropertyChanged("output");
+				}
+			}
+
+			property std::vector<Platform::String^> blocksRecipe
+			{
+				std::vector<Platform::String^> get()
+				{
+					return recipe;
+				}
+				void set(std::vector<Platform::String^> value)
+				{
+					recipe = value;
+					OnPropertyChanged("blocksRecipe");
 				}
 			}
 

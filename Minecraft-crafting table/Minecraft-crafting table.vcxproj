@@ -161,6 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="Assets\5-3.png" />
+    <Image Include="Assets\CraftingTable.png" />
     <Image Include="Assets\Logo.png" />
     <Image Include="Assets\SmallLogo.png" />
     <Image Include="Assets\StoreLogo.png" />

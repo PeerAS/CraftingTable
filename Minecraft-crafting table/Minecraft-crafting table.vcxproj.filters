@@ -1229,6 +1229,9 @@
     <Image Include="DB\Images\421.png">
       <Filter>DB\Images</Filter>
     </Image>
+    <Image Include="Assets\CraftingTable.png">
+      <Filter>Assets</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Minecraft-crafting table.rc" />
